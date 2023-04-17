@@ -38,3 +38,4 @@ Com os seguintes endpoints de:
 ```
 
 # NewAPi
+# NewAPi
